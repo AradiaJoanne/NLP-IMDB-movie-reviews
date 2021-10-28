@@ -4,3 +4,5 @@ This project looks at how Natural Language Processing can be used to understand 
 Implements a 1D Convolutional Neural Network and Logistic Regression Classifier. 
 
 Please Note that if you run this code, the spellchecking and lemmatization of the words takes around 2 hours. 
+
+Dataset can be found at https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
